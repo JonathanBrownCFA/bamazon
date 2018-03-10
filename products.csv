@@ -1,0 +1,11 @@
+item id,product name,department name,price,stock quantity
+1,"Levis Jeans",Clothing,45.00,20
+2,"Bose Speakers",Electronics,250.00,50
+3,"Sony Vio Laptop",Computers,2000.00,20
+4,"Leather Sofa",Furniture,3500.00,2
+5,"Scissors",Office,5.5,200
+6,"Rain Jacket",Clothing,65.75,100
+7,"Guitar",Music,99.95,20
+8,"Ceiling Fan",Home,155.96,15
+9,"Snickers",Food,2.00,1000
+10,"Steak Knife",Kitchem,12.95,30

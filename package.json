@@ -1,0 +1,22 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "bamazon homework",
+  "main": "bamazonCustomer.js",
+  "dependencies": {
+    "easy-table": "^1.1.1",
+    "inquirer": "^3.3.0",
+    "install": "^0.10.4",
+    "mysql": "^2.15.0",
+    "nodemon": "^1.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bamazon"
+  ],
+  "author": "Jonathan Brown",
+  "license": "ISC"
+}
