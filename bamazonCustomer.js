@@ -102,7 +102,9 @@ function menu() {
                 menu();
               } else {
                 // End Connection
-                console.log("Thank you for your business.");
+                console.log("\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n");
+                console.log("Thank you for your business.  Please stop back soon.");
+                console.log("\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n");
                 connection.end();
               }
             });
