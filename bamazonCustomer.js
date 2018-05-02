@@ -11,14 +11,14 @@ var connection = mysql.createConnection({
 
   // Your password
   password: "root",
-  database: "bamazon_DB"
+  database: "bamazon_db"
 });
 
 // connect to bamazon database and either throw error or START shopping
 connection.connect(function (err) {
   if (err) throw err;
   console.log("\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n");
-  console.log("You are connected as id " + connection.threadId + ".    Welcome to Bamanzon!");
+  console.log("You are connected as id " + connection.threadId + ".    Welcome to Bamazon!");
   console.log("\n");
   start();
 });
